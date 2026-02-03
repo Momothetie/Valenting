@@ -50,7 +50,7 @@ body {
   padding-top: 100px;
 
   /* Fond global */
-  background-image: url("images/nous.png");
+  background-image: url("nous.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -87,3 +87,4 @@ body {
   text-shadow: 0 4px 12px rgba(0,0,0,0.25);
     backdrop-filter: blur(1px);
 }
+
