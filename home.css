@@ -5,7 +5,7 @@
   font-family: Arial, sans-serif;
 
   /* Image de fond */
-  background-image: url("images/nous.png");
+  background-image: url("nous.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -59,3 +59,4 @@
 .start-btn:hover{
   transform: scale(1.05);
 }
+
